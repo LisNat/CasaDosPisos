@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2067075747129601713}
   - component: {fileID: 7362263876428784687}
   m_Layer: 0
-  m_Name: Muro_Ventana
+  m_Name: Muro_Ventana_Lateral
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
